@@ -40,8 +40,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-<img align="left" alt="nihaltowfiq's GitHub Stats" src="https://github-readme-stats.nihaltowfiq.vercel.app
-/api?username=nihaltowfiq&show_icons=true&hide_border=true" />
+<img align="left" alt="nihaltowfiq's GitHub Stats" src="https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&hide_border=true" />
 
 </details>
 
