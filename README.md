@@ -1,11 +1,11 @@
 ### Hi there, I'm Nihal - [My Portfolio][website] 👋!
 
-## I'm a Full Stack Developer, who love to code!
+## I'm a Full Stack Developer, who loves to code!
 
 - 🌱 I’m currently learning JavaScript, React, NodeJS.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ Fun fact: I love to cycling on my free time & travel to the new place.
+- 🥅 2021 Goals: Master at React, complete the MERN Stack, and contribute to Open Source projects.
+- ⚡ Fun fact: I love cycling in my free time & travel to new places.
 
 ### Connect with me:
 
