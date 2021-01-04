@@ -47,6 +47,8 @@ My Email: nihaltowfiq@gmail.com
 
 <img align="left" alt="nihaltowfiq's GitHub Stats" src="https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [website]: https://nihal.netlify.app/
