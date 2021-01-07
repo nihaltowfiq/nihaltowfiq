@@ -13,10 +13,6 @@ I am an expert in React.js. I have experience working with Node.js, and MongoDB 
 
 My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
 
-[myResume](https://nihal.netlify.app/){:target="\_blank"}
-
-[myPortfolio][website]
-
 #### Top Technologies:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
