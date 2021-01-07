@@ -67,11 +67,11 @@ My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1Cyr
 
 #### GitHub Stats!
 
-![nihaltowfiq's GitHub Stats](https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&hide_border=true)
+![nihaltowfiq's GitHub Stats](https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&theme=tokyonight)
 
 #### Most Used Languages!
 
-![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact)
+![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact&theme=tokyonight)
 
 </details>
 
