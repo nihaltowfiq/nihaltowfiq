@@ -13,7 +13,7 @@ I am an expert in React.js. I have experience working with Node.js, and MongoDB 
 
 My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
 
-[myResume](https://nihal.netlify.app/)
+[myResume](https://nihal.netlify.app/){:target="\_blank"}
 
 [myPortfolio][website]
 
