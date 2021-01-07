@@ -11,7 +11,11 @@ I am a Full Stack developer. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), R
 
 I am an expert in React.js. I have experience working with Node.js, and MongoDB for my full stack projects. I can clone a web page as like as provided design using React. I can make backend API and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
 
-My Email: nihaltowfiq@gmail.com || <a target="_blank" href="https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing">My Resume/CV</a> || <a target="_blank" href="https://nihal.netlify.app/">My Portfolio</a>
+My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
+
+[myResume](https://nihal.netlify.app/)
+
+[myPortfolio][website]
 
 #### Top Technologies:
 
@@ -20,8 +24,8 @@ My Email: nihaltowfiq@gmail.com || <a target="_blank" href="https://drive.google
 
 #### Connect with me:
 
-<a target="_blank" href="https://www.linkedin.com/in/nihaltowfiq/"><img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/NihalTowfiq"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nihaltowfiq/" target="_blank"><img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/NihalTowfiq" target="_blank"><img src="https://img.shields.io/badge/Add Me-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 #### Languages and Tools:
 
@@ -59,7 +63,7 @@ My Email: nihaltowfiq@gmail.com || <a target="_blank" href="https://drive.google
 ---
 
 <details>
-  <summary>⚡ More stuff about me</summary>
+  <summary>⚡ More Stuff About Me!</summary>
 
 #### Profile Visits!
 
@@ -67,11 +71,11 @@ My Email: nihaltowfiq@gmail.com || <a target="_blank" href="https://drive.google
 
 #### GitHub Stats!
 
-<img align="left" alt="nihaltowfiq's GitHub Stats" src="https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&hide_border=true" />
+![nihaltowfiq's GitHub Stats](https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&hide_border=true)
 
 #### Most Used Languages!
 
-[![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact)
 
 </details>
 
