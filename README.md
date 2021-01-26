@@ -2,10 +2,7 @@
 
 ## I'm a Full Stack Developer, who loves to code!
 
-<!-- - 🌱 I’m currently learning JavaScript, React, NodeJS. -->
-
 - 👯 I’m looking to collaborate with other passionate developers.
-<!-- - 🥅 2021 Goals: Master at React, complete the MERN Stack, and contribute to Open Source projects. -->
 - 🥅 2021 Goals: Complete the MERN Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
 - ⚡ Fun fact: I love cycling in my free time & travel to new places.
 
@@ -81,3 +78,6 @@ My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1Cyr
 [twitter]: https://twitter.com/NihalTowfiq
 [linkedin]: https://www.linkedin.com/in/nihaltowfiq/
 [resume]: https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing
+
+<!-- - 🌱 I’m currently learning JavaScript, React, NodeJS. -->
+<!-- - 🥅 2021 Goals: Master at React, complete the MERN Stack, and contribute to Open Source projects. -->
