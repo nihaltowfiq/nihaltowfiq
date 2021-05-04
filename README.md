@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Developer, who loves to code!
 
-- 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master at MERN Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
-- ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
+-   👯 I’m looking to collaborate with other passionate developers.
+-   🥅 2021 Goals: Master at MERN Stack, Learn TypeScript, Next.js & GraphQL and contribute to Open Source projects.
+-   ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
 
 I am a Full Stack developer. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Redux, Node.js, Express.js, MongoDB.
 
