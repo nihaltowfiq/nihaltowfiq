@@ -3,19 +3,22 @@
 ## I'm a Full Stack Developer, who loves to code!
 
 -   👯 I’m looking to collaborate with other passionate developers.
--   🥅 2021 Goals: Master at MERN Stack, Learn TypeScript, Next.js & GraphQL and contribute to Open Source projects.
+-   🥅 2022 Goals: Master at MERN Stack, Expert in TypeScript, Next.js and contribute to Open Source projects.
 -   ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
 
 I am a Full Stack developer. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Redux, Node.js, Express.js, MongoDB.
 
 I am an expert in React.js. I have experience working with Node.js, and MongoDB for my full stack projects. I can clone a web page as like as provided design using React. I can make backend API and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
 
-My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
+My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1PsNB6bGc_xw4Pr8lmRA4d8G4bdH0a9Q3/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
 
 #### Top Technologies:
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next JS Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
 
 #### Connect with me:
 
