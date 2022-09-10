@@ -1,16 +1,16 @@
 ### Hi there, I'm Nihal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">!
 
-## I'm a Full Stack Developer, who loves to code!
+## I'm a Software Engineer (Frontend), who loves to code!
 
 -   👯 I’m looking to collaborate with other passionate developers.
--   🥅 2022 Goals: Master at MERN Stack, Expert in TypeScript, Next.js and contribute to Open Source projects.
+-   🥅 2022 Goals: Master at Frontend (React.js, Next.js, Redux, PWA, etc.), Expert in TypeScript and contribute to Open Source projects.
 -   ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
 
-I am a Full Stack developer. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Redux, Node.js, Express.js, MongoDB.
+My expertise are in HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript (ES6), TypeScript, React.js, Next.js, Redux. Also, familiar with Node.js, Express.js, MongoDB.
 
-I am an expert in React.js. I have experience working with Node.js, and MongoDB for my full stack projects. I can clone a web page as like as provided design using React. I can make backend API and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
+Overall, I am an expert in React.js. I have work on Next.js for SEO friendly, SSR and SSG websites. I have work on many CSS framework or tool such as SCSS, Bootstrap, TailwindCSS etc. I can design pixel-perfect webpages as like as provided design. I have also experience working with Node.js, Express.js and MongoDB for my full stack projects. I can make restAPI and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
 
-My Email: nihaltowfiq@gmail.com || <a href="https://drive.google.com/file/d/1PsNB6bGc_xw4Pr8lmRA4d8G4bdH0a9Q3/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
+My Email: nihal.towfiq@gmail.com || <a href="https://drive.google.com/file/d/1PsNB6bGc_xw4Pr8lmRA4d8G4bdH0a9Q3/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
 
 #### Top Technologies:
 
