@@ -8,7 +8,8 @@
 
 My expertise are in HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript (ES6), TypeScript, React.js, Next.js, Redux. And also familiar with Node.js, Express.js, MongoDB.
 
-Overall, I am an expert in React.js. I have work on Next.js for SEO friendly, SSR and SSG websites. I have work on many CSS framework-tools, such as SCSS, Bootstrap, TailwindCSS, Styled-Components Material-UI etc. I can design pixel-perfect webpages as like as provided design. I can handle any asynchronous tasks (AJAX) and complex CRUD operations on frontend. Besides, I have also experience working with Node.js, Express.js and MongoDB for my full stack projects. I can make Restful API's and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
+Overall, I am an expert in React.js. I have work on Next.js for SEO friendly, SSR and SSG websites. I have work on many CSS framework-tools, such as SCSS, Bootstrap, TailwindCSS, Styled-Components, Material-UI etc. I can design pixel-perfect webpages as like as provided design. I can handle any asynchronous tasks (AJAX) and complex CRUD operations on frontend. Besides, I have also experience working with Node.js, Express.js and MongoDB for my full stack projects. I can make Restful API's and can integrate them with the frontend.
+Moreover, I am a quick learner. So, I am able to learn any technology perfectly in a short time.
 
 My Email: nihal.towfiq@gmail.com || <a href="https://drive.google.com/file/d/1PsNB6bGc_xw4Pr8lmRA4d8G4bdH0a9Q3/view?usp=sharing" target="_blank">My Resume/CV</a> || <a href="https://nihal.netlify.app/" target="_blank">My Portfolio</a>
 
