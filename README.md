@@ -6,7 +6,7 @@
 -   🥅 2022 Goals: Master at Frontend (React.js, Next.js, Redux, PWA, etc.), Expert in TypeScript and contribute to Open Source projects.
 -   ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
 
-My expertise are in HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript (ES6), TypeScript, React.js, Next.js, Redux. Also, familiar with Node.js, Express.js, MongoDB.
+My expertise are in HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript (ES6), TypeScript, React.js, Next.js, Redux. And also familiar with Node.js, Express.js, MongoDB.
 
 Overall, I am an expert in React.js. I have work on Next.js for SEO friendly, SSR and SSG websites. I have work on many CSS framework or tool such as SCSS, Bootstrap, TailwindCSS etc. I can design pixel-perfect webpages as like as provided design. I have also experience working with Node.js, Express.js and MongoDB for my full stack projects. I can make restAPI and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
 
