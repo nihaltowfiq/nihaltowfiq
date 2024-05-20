@@ -2,11 +2,11 @@
 
 # I'm a Software Engineer, who loves to code!
 
-- 🌱 I’m currently learning SQL and backend.
+- 🔭 I’m currently working on e-commerces!
+- 🌱 I’m currently learning SQL and Micro-Services.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 💬 Ask me about JavaScript, TypeScript, Next.js, React.js, Express.js.
+- 💬 Ask me about TypeScript, Next.js, React.js, Express.js, MongoDB.
 - ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
-  <!-- - 🔭 I’m currently working on ___!   -->
   <br /> <br />
 
 ###### Find me at:
