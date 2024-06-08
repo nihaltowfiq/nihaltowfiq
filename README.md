@@ -1,6 +1,6 @@
 ## Hi there, I'm Nihal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">!
 
-## I'm a Software Engineer, who loves to code!
+# I'm a Software Engineer, who loves to code!
 
 With over 3 years of industry experience as a software engineer, I have a strong passion for problem-solving and a keen curiosity for learning. I am dedicated and persistent, always striving to find effective solutions to complex problems. My goal is to continuously grow through a fulfilling and challenging career in software development.
 
